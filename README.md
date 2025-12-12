@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Welcome to your Expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
@@ -48,3 +49,7 @@ Join our community of developers creating universal apps.
 
 - [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
 - [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+=======
+# MAD201-Project02-Nithin
+Students will build a Smart Budget Tracker Lite app that lets users record income and expenses, view totals, and store locally The Project demonstrates everything covered in the React Native learned in the module. • Component structure and layout • Flexbox and StyleSheet styling
+>>>>>>> 3dbd68ea5bd32a98e02f62d15b7e64d07135eff1
